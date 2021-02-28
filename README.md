@@ -6,7 +6,7 @@ Made by [Hossein Zaredar](https://github.com/HosseinZaredar) and [Matin Tavakoli
 ## Sildes:
 coming soon...
 
-## Additional Contents:
+## Additional Content:
 
 - [General](https://github.com/HosseinZaredar/Computational-Intelligence/blob/main/General.md)
 - [Neural Networks](https://github.com/HosseinZaredar/Computational-Intelligence/blob/main/Neural%20Networks.md)
