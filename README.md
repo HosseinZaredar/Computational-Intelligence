@@ -8,5 +8,5 @@ coming soon...
 
 ## Additional Contents:
 
-- [General]()
-- [Neural Networks]()
+- [General](https://github.com/HosseinZaredar/Computational-Intelligence/blob/main/General.md)
+- [Neural Networks](https://github.com/HosseinZaredar/Computational-Intelligence/blob/main/Neural%20Networks.md)
