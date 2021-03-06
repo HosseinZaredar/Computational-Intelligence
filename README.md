@@ -4,7 +4,7 @@ A descriptive & intuitive guide to Computational Intelligence!<br>
 Made by [Hossein Zaredar](https://github.com/HosseinZaredar) and [Matin Tavakoli](https://github.com/MatinTavakoli).
 
 ## Sildes:
-coming soon...
+- [Chapter 1: Neural Networks](https://docs.google.com/presentation/d/1le_uQGTJ0izHzbMc72S5FY00hR0u6pTrCqItnfC1nTE/edit?usp=sharing)
 
 ## Additional Content:
 
