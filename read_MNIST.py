@@ -1,4 +1,11 @@
 import numpy as np
+import matplotlib.pyplot as plt
+
+# A function to plot images
+def show_image(img):
+    image = img.reshape((28, 28))
+    plt.imshow(image, 'gray')
+
 
 # Reading The Train Set
 train_images_file = open('train-images.idx3-ubyte', 'rb')
@@ -43,3 +50,8 @@ for n in range(num_of_test_images):
     label[label_value, 0] = 1
     
     test_set.append((image, label))
+
+
+# Plotting an image
+show_image(train_set[0][0])
+plt.show()
