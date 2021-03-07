@@ -9,3 +9,6 @@
 
 ### CNNs
 - [Futurology - How Convolutional Neural Networks Work](https://www.youtube.com/watch?v=pj9-rr1wDhM)
+
+### Articles
+- [The Neural Network Zoo](https://www.mdpi.com/2504-3900/47/1/9)
