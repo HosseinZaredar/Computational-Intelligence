@@ -7,6 +7,5 @@
 
 ## Other neural network architectures:
 
-### CNNs
 - [CNNs](https://github.com/HosseinZaredar/Computational-Intelligence/blob/main/CNN.md)
 - [Article - The Neural Network Zoo](https://www.mdpi.com/2504-3900/47/1/9)
