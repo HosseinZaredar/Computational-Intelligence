@@ -5,6 +5,9 @@
 - [3Blue1Brown - Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Futurology - Deep Learning](https://www.youtube.com/playlist?list=PLfsEr6YiELADCJ6TflLs0Um9PDg6QJ0_0)
 
+## Playgruond:
+- [A Neural Network Playground - TensorFlow](https://playground.tensorflow.org/)
+
 ## Other neural network architectures:
 
 - [CNNs](https://github.com/HosseinZaredar/Computational-Intelligence/blob/main/CNN.md)
