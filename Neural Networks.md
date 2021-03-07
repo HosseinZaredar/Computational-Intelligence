@@ -16,5 +16,5 @@
 - [Article - The Neural Network Zoo](https://www.mdpi.com/2504-3900/47/1/9)
 
 ## Books:
-- [Neural Networks from Scratch in Python](https://nnfs.io/)
 - [The Nature of Code - Chapter 10. Neural Networks](https://natureofcode.com/book/chapter-10-neural-networks/)
+- [Neural Networks from Scratch in Python](https://nnfs.io/)
