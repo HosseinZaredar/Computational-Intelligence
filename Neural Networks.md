@@ -14,6 +14,8 @@
 
 - [CNNs](https://github.com/HosseinZaredar/Computational-Intelligence/blob/main/CNN.md)
 - [Article - The Neural Network Zoo](https://www.mdpi.com/2504-3900/47/1/9)
+- [Website - The mostly complete chart of Neural Networks, explained](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
+- [Website - Neural Network Architectures](https://medium.com/cracking-the-data-science-interview/a-gentle-introduction-to-neural-networks-for-machine-learning-d5f3f8987786)
 
 ## Books:
 - [The Nature of Code - Chapter 10. Neural Networks](https://natureofcode.com/book/chapter-10-neural-networks/)
