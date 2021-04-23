@@ -21,3 +21,6 @@
 ## Books:
 - [The Nature of Code - Chapter 10. Neural Networks](https://natureofcode.com/book/chapter-10-neural-networks/)
 - [Neural Networks from Scratch in Python](https://nnfs.io/)
+
+## Other:
+- [The Neural Network, A Visual Introduction | Visualizing Deep Learning, Chapter 1](https://www.youtube.com/watch?v=UOvPeC8WOt8)
