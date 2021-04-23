@@ -10,6 +10,7 @@
 
 ## Playground:
 - [A Neural Network Playground - TensorFlow](https://playground.tensorflow.org/)
+- [Neural network playground](https://nnplayground.com/)
 
 ## Other neural network architectures:
 
