@@ -6,6 +6,9 @@ Made by [Hossein Zaredar](https://github.com/HosseinZaredar) and [Matin Tavakoli
 ## Sildes:
 - [Chapter 1: Neural Networks](https://docs.google.com/presentation/d/1le_uQGTJ0izHzbMc72S5FY00hR0u6pTrCqItnfC1nTE/edit?usp=sharing)
 
+## TensorFlow:
+- [ConvNet (CIFAR-10)](https://colab.research.google.com/drive/1IQo9ggcgolVz4M8shzd11A-Tn3WJAVz6#scrollTo=ZKIfFBke07D-)
+
 ## Additional Content:
 
 - [General](https://github.com/HosseinZaredar/Computational-Intelligence/blob/main/General.md)
